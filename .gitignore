@@ -1,0 +1,55 @@
+
+# =============================
+# General
+# =============================
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# =============================
+# Visual Studio / C# / .NET
+# =============================
+# Build folders
+bin/
+obj/
+Debug/
+Release/
+*.user
+*.suo
+*.userprefs
+*.pdb
+*.cache
+*.ilk
+*.log
+*.vspscc
+*.vssscc
+
+# Generated files
+*.dll
+*.exe
+*.app
+*.runtimeconfig.json
+
+# =============================
+# Rust / Cargo
+# =============================
+target/
+**/*.rs.bk
+Cargo.lock
+
+# =============================
+# Editor / IDE
+# =============================
+.vscode/
+.idea/
+*.swp
+*.swo
+*.tmp
+*.bak
+*.backup
+
+# =============================
+# Other
+# =============================
+*.log
+*.tmp
