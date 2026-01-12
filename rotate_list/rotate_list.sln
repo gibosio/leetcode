@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "rotate_list", "rotate_list.csproj", "{DAE734E0-35FD-53F6-F8DA-3EE9A9934537}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DAE734E0-35FD-53F6-F8DA-3EE9A9934537}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAE734E0-35FD-53F6-F8DA-3EE9A9934537}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAE734E0-35FD-53F6-F8DA-3EE9A9934537}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAE734E0-35FD-53F6-F8DA-3EE9A9934537}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9FE42C62-37A1-46F3-A271-F427C2D0C48D}
+	EndGlobalSection
+EndGlobal
